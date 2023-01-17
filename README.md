@@ -1,6 +1,12 @@
 # Python Challenge
 This is a project to create a Python script that analyzes financial records of a company and calculates important parameters such as total number of months, net total amount of profit/losses, changes in profit/losses, average of those changes, greatest increase in profits and greatest decrease in profits. It also analyzes voting records and calculates total number of votes cast, list of candidates who received votes, percentage of votes each candidate won, total number of votes each candidate won, and the winner of the election based on popular vote. The results of the analysis will be both printed to the terminal and exported to a text file.
 
+### PyPoll Result
+![pypoll](https://user-images.githubusercontent.com/109693942/213036036-59551437-6e04-4a42-ad75-6be4f7f87d9d.JPG)
+
+### PyBank Result
+![pybank](https://user-images.githubusercontent.com/109693942/213036049-6f08114a-2890-48f5-9617-bd68e8a106ec.JPG)
+
 # Technical Skills Required
 - Knowledge of Python
 - Understanding of CSV file manipulation
